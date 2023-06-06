@@ -1,0 +1,19 @@
+~Ty's Simplified Summoning~
+
+Ty's Simplified Summoning is a relatively small quality of life mod made to improve the process of summoning minions/sentries and generally make it less tedious to do. It does this through several ways:
+
+- Summon weapons all have their mana costs removed as they barely affect balance and mostly just slows down the summoning process.
+- Summon weapons all have their abysmally slow use reduced to speed up the process of getting your minions out.
+- Summon weapons all have auto reuse enabled so you don't need to get a hand cramp to summon them quickly.
+- Summon weapons all now display their use speeds because why don't they!? They even have modifiers that effect it!
+
+All the features above affect both modded and vanilla items and can be enabled or disabled via the mod config and there is also a configurable blacklist which can be used to blacklist certain items from being affected by this mod.
+
+Visit the Ty's Simplified Summoning forums page for a more indepth description of all changes this mod provides.
+
+Versions:
+v1.0 - 1.4 Release
+v1.1 - Minor internal changes
+v1.2 - Added Steam Workshop Tags
+v1.3 - Works in the full release tmod 1.4
+v1.4 - Minor tweaks
