@@ -17,3 +17,4 @@ v1.1 - Minor internal changes
 v1.2 - Added Steam Workshop Tags
 v1.3 - Works in the full release tmod 1.4
 v1.4 - Minor tweaks
+v1.5 - Works in the full release tmod 1.4.4

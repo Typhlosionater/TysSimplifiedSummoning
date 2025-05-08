@@ -1,0 +1,60 @@
+Configs: {
+	TysSimplifiedSummoningConfigServer: {
+		DisplayName: Mod Config
+
+		ManaFreeMinions: {
+			Label: Minions cost no mana to summon
+			Tooltip: (Enabled by default)
+		}
+
+		ManaFreeSentries: {
+			Label: Sentries cost no mana to summon
+			Tooltip: (Enabled by default)
+		}
+
+		ManaBlacklist: {
+			Label: Mana cost blacklist
+			Tooltip: Items added to this blacklist will not have their mana cost removed
+		}
+
+		FasterMinions: {
+			Label: Increases the summoning speed of minions
+			Tooltip: (Enabled by default)
+		}
+
+		FasterSentries: {
+			Label: Increases the summoning speed of sentries
+			Tooltip: (Enabled by default)
+		}
+
+		SpeedBlacklist: {
+			Label: Summoning speed blacklist
+			Tooltip: Items added to this blacklist will not have their summoning speed increased
+		}
+
+		MinionAutoreuse: {
+			Label: All minion weapons have autoreuse
+			Tooltip: (Enabled by default)
+		}
+
+		SentryAutoreuse: {
+			Label: All sentry weapons have autoreuse
+			Tooltip: (Enabled by default)
+		}
+
+		WhipAutoreuse: {
+			Label: All whip weapons have autoreuse
+			Tooltip: (Enabled by default)
+		}
+
+		AutoreuseBlacklist: {
+			Label: Autoreuse blacklist
+			Tooltip: Items added to this blacklist will not be given autoreuse
+		}
+
+		SummonTooltips: {
+			Label: Non-whip summon weapons display their use speed too
+			Tooltip: (Enabled by default)
+		}
+	}
+}
