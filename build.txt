@@ -1,6 +1,6 @@
 displayName = Ty's Simplified Summoning
 author = Typhlosionater
-version = 1.4
+version = 1.5
 homepage = https://forums.terraria.org/index.php?threads/tys-simplified-summoning-making-summoning-less-tedious.105400/
 hideCode = true
 hideResources = true
